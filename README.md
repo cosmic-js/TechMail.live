@@ -6,5 +6,4 @@ Professional email, online storage, and more!
 <br> Work, learn, collaborate, connect, and create with Microsoft 365 &amp; Google Workspace's user account.
 </p>
  
-(https://github.com/RupomChowdhury/OnMail.live/blob/main/OnMail-Professional-User-Email.png)
-(https://tinyurl.com/ye76acz9)
+![OnMail](https://github.com/RupomChowdhury/OnMail.live/blob/main/OnMail-Professional-User-Email.png)
