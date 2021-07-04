@@ -2,7 +2,7 @@
 Start using Professional Email<br>in Office 365 & Google Workspace.
 </h1>
 Current user: 157 <br>
-Price: 100tk/month <br>
+Subscription: 100tk/month <br>
 Visit Now:  https://onmail.live <br>
 <br>
 <p data-aos="fade" data-aos-easing="linear" data-aos-duration="1000" data-aos-once="true" class="lead text-white my-4 aos-init aos-animate">
