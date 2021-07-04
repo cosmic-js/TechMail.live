@@ -4,6 +4,9 @@ Start using Professional Email<br>in Office 365 & Google Workspace.
 Current user: 157 <br>
 Subscription: 100tk/month <br>
 Visit Now:  https://onmail.live <br>
+Buy Now: https://store.rupom.live <br>
+Files Hosted on: https://files.rupom.live
+<br>
 <br>
 <p data-aos="fade" data-aos-easing="linear" data-aos-duration="1000" data-aos-once="true" class="lead text-white my-4 aos-init aos-animate">
 Professional email, online storage, and more!
