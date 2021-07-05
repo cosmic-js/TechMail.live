@@ -2,7 +2,7 @@
 Start using Professional Email<br>in Office 365 & Google Workspace.
 </h1>
 Current user: 157 <br>
-Subscription: 100tk/month <br>
+Subscription: 100tk/month or 12USD/month<br>
 Visit Now:  https://onmail.live <br>
 Buy Now: https://store.rupom.live <br>
 Files Hosted on: https://files.rupom.live
