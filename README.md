@@ -15,4 +15,4 @@ Professional email, online storage, and more!
  
 ![OnMail](https://files.rupom.live/static/media/img/OnMail-Professional-User-Email-2.png) 
 <br>
-![OnMail](https://files.rupom.live/static/media/img/GDrive-storage.png)
+![GDrive](https://files.rupom.live/static/media/img/GDrive-storage.png)
