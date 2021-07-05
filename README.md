@@ -16,3 +16,7 @@ Professional email, online storage, and more!
 ![OnMail](https://files.rupom.live/static/media/img/OnMail-Professional-User-Email-2.png) 
 <br>
 ![GDrive](https://files.rupom.live/static/media/img/GDrive-storage.png)
+<br>
+![OneDrive](https://files.rupom.live/static/media/img/OneDrive-Metrics.png)
+<br>
+![Office365](https://files.rupom.live/static/media/img/office365-install.png)
